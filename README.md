@@ -9,15 +9,15 @@
 Git commands are:
 ```
 ###### GitHub CLI
-- gh repo clone Hitsukaya/Hitsukaya-PWA-Android-APP
+- gh repo clone Hitsukaya/Hitsukaya-PWA-IOS-APP
 ###### SSH
-- git@github.com:Hitsukaya/Hitsukaya-PWA-Android-APP.git
+- git@github.com:Hitsukaya/Hitsukaya-PWA-IOS-APP.git
 ###### HTTPS 
-- https://github.com/Hitsukaya/Hitsukaya-PWA-Android-APP.git
+- https://github.com/Hitsukaya/Hitsukaya-PWA-IOS-APP.git
 
 ###### Git Clone
-git clone   https://github.com/Hitsukaya/Hitsukaya-PWA-Android-APP.git
+git clone   https://github.com/Hitsukaya/Hitsukaya-PWA-IOS-APP.git
 
-###### Use android studio 
+###### Use XCode 
 ```
 
